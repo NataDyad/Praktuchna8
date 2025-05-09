@@ -1,12 +1,6 @@
 Pizza
 Sushi
 Borscht
-Pizza
-Sushi
-Borscht
-Inception
-The Matrix
-Shrek
 Inception
 The Matrix
 Shrek
